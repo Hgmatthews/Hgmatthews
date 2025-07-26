@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Harry Matthews
 
-<!--
-**Hgmatthews/Hgmatthews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity graduate and Python developer passionate about building tools that solve real-world problems in infosec.
 
-Here are some ideas to get you started:
+## 🔧 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 [TorPull](https://github.com/Hgmatthews/TorPull): .onion file scraper over the Tor network using Selenium + requests
+- 🔐 [Pass Generator](https://github.com/Hgmatthews/Pass_Generator): CLI password manager with encryption and validation
+
+## 🎙️ I Host a Cybersecurity Podcast
+🎧 [**The Paper Trail Podcast**](https://www.youtube.com/@PaperTrailPodcast)  
+Interviews, research breakdowns, and real-world cyber discussions.
+
+## 🎓 Education
+
+- B.B.A. in Cybersecurity – UTSA (2025)
+- M.S. in Information Security (Operations Track) – Champlain College (starting Aug 2025)
+
+## 📚 Currently Learning
+
+- Ethical hacking and CTFs
+- Python for automation
+- Offensive security tooling
+
+## 📫 Reach Me
+
+- [LinkedIn – Harrison Matthews](https://www.linkedin.com/in/harrison-matthews-/)
+- [GitHub – @Hgmatthews](https://github.com/Hgmatthews)
