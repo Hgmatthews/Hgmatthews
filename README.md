@@ -14,7 +14,7 @@ Interviews, research breakdowns, and real-world cyber discussions.
 ## 🎓 Education
 
 - B.B.A. in Cybersecurity – UTSA (2025)
-- M.S. in Information Security (Operations Track) – Champlain College (starting Aug 2025)
+- M.S. in Information Security (Operations Track) – Champlain College (started Aug 2025)
 
 ## 📚 Currently Learning
 
